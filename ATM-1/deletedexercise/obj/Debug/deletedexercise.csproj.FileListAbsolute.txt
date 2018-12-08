@@ -1,0 +1,14 @@
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\bin\Debug\deletedexercise.exe.config
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\bin\Debug\deletedexercise.exe
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\bin\Debug\deletedexercise.pdb
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\obj\Debug\deletedexercise.csprojAssemblyReference.cache
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\obj\Debug\deletedexercise.csproj.CoreCompileInputs.cache
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\obj\Debug\deletedexercise.exe
+C:\Users\Heyran\Desktop\deletedexercise\deletedexercise\obj\Debug\deletedexercise.pdb
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\bin\Debug\deletedexercise.exe.config
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\bin\Debug\deletedexercise.exe
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\bin\Debug\deletedexercise.pdb
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\obj\Debug\deletedexercise.csprojAssemblyReference.cache
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\obj\Debug\deletedexercise.csproj.CoreCompileInputs.cache
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\obj\Debug\deletedexercise.exe
+C:\Users\Heyran\Desktop\ATM-1\deletedexercise\obj\Debug\deletedexercise.pdb
